@@ -1,1540 +1,661 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
--<tv generator-info-url="http://www.webgrabplus.com" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.0.0 -- Jan van Straaten">
-
-
--<channel id="DISCOVERY CHANNEL HD">
-
-<display-name lang="pt">DISCOVERY CHANNEL HD</display-name>
-
-<url>http://www.meuguia.tv</url>
-
-</channel>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo - Especial</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Operação Fronteira - América do Sul</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Operação Fronteira - América do Sul</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto: Área Restrita</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto: Área Restrita</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto Miami</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto Miami</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto Miami</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto Miami</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Forças Especiais: O Desafio</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ligação Perigosa</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">O Fugitivo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">O Fugitivo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto Miami</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto Miami</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto: Área Restrita</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto: Área Restrita</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Rumo ao Desconhecido</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Rumo ao Desconhecido</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Rumo ao Desconhecido</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Planeta Desconhecido com Steve Backshall</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções no Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções no Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções Remotas</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções Remotas</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">A Grande Família do Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford: Contra Todos</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla: Brasil</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Menu Selvagem</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">O Fugitivo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">À Prova de Tudo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções Remotas</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">A Grande Família do Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford: Contra Todos</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla: Brasil</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Hitler e sua Corrente do Mal</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Movidos a Diesel</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Rumo ao Desconhecido</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ilha dos Crocodilos: Caçadores do Tesouro Perdido</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">A Maldição do Ouro Perdido</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">O Caçador de Múmias</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Vida Remota</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Vida Remota</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Vida Remota</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções Remotas</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções Remotas</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções no Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">A Grande Família do Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford, o Sobrevivente</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Isolados no Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">A Grande Família das Montanhas</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções Remotas</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções Remotas</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções no Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">A Grande Família do Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford, o Sobrevivente</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Destiladores</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Hitler e sua Corrente do Mal</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">O Mundo sobre rodas com Mike Brewer</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções Remotas</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções Remotas</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Construções no Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">A Grande Família do Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford, o Sobrevivente</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Isolados no Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Isolados no Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Isolados no Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Mestres da Sobrevivência: O Desafio</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sobreviva, Se Puder</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford: Contra Todos</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford: Contra Todos</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Quem Vence: Homem ou Fera?</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sobrevivente Geek</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sobrevivência Ninja</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford: Contra Todos</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford: Contra Todos</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Quem Vence: Homem ou Fera?</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Destiladores</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Hitler e sua Corrente do Mal</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Dupla do Barulho</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford: Contra Todos</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford: Contra Todos</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Quem Vence: Homem ou Fera?</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Alasca: A Última Fronteira</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Alasca: A Última Fronteira</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Alasca: A Última Fronteira</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">As Piores Prisões do Mundo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">As Piores Prisões do Mundo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto Miami</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto: Área Restrita</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto: Área Restrita</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto: Área Restrita</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto: Área Restrita</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto: Área Restrita</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Aeroporto: Área Restrita</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Quilos Mortais</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Linha Tênue</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Pronto-Socorro: Histórias de Emergência</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Meu Corpo, Meu Desafio</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Meu Corpo, Meu Desafio</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Pronto-Socorro: Histórias de Emergência</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Destiladores</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Hitler e sua Corrente do Mal</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Carros Irados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">À Prova de Tudo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro - O Desafio de Parker</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro: Corredeiras do Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">A Grande Família do Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">A Grande Família do Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">A Grande Família do Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sobreviva, Se Puder</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla: Brasil</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Caçadores de Pítons</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Supercobra</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Lendas Selvagens</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Rumo ao Desconhecido</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">A Maldição do Ouro Perdido</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Caçadores de Pítons</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Supercobra</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Lendas Selvagens</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Destiladores</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Hitler e sua Corrente do Mal</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Trocando a Marcha com Aaron Kaufman</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Caçadores de Pítons</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Supercobra</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Lendas Selvagens</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">À Prova de Tudo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">À Prova de Tudo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">À Prova de Tudo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ilhados com Bear Grylls</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford, o Sobrevivente</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford, o Sobrevivente</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford, o Sobrevivente</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">À Prova de Tudo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">À Prova de Tudo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro - O Desafio de Parker</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro: Corredeiras do Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Destiladores</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Em Busca de Relíquias</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Em Busca de Relíquias</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">À Prova de Tudo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro - O Desafio de Parker</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Febre do Ouro: Corredeiras do Alasca</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Destiladores</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Desafio em Dose Dupla</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">À Prova de Tudo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sobrevivência ao Limite</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Forças Especiais: O Desafio</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ligação Perigosa</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tarzan Americano</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford, o Sobrevivente</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ed Stafford, o Sobrevivente</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
-
--<programme channel="DISCOVERY CHANNEL HD" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Largados e Pelados: A Tribo</title>
-
-</programme>
-
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DISCOVERY CHANNEL HD">
+    <display-name lang="pt">DISCOVERY CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo - Especial</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Operação Fronteira - América do Sul</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Operação Fronteira - América do Sul</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto Miami</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto Miami</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto Miami</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto Miami</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Forças Especiais: O Desafio</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ligação Perigosa</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">O Fugitivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">O Fugitivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto Miami</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto Miami</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Planeta Desconhecido com Steve Backshall</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções no Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções no Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções Remotas</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções Remotas</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Menu Selvagem</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">O Fugitivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">À Prova de Tudo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções Remotas</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Hitler e sua Corrente do Mal</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Movidos a Diesel</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ilha dos Crocodilos: Caçadores do Tesouro Perdido</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">A Maldição do Ouro Perdido</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">O Caçador de Múmias</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções Remotas</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções Remotas</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções no Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Isolados no Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">A Grande Família das Montanhas</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções Remotas</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções Remotas</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções no Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Hitler e sua Corrente do Mal</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">O Mundo sobre rodas com Mike Brewer</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções Remotas</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções Remotas</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Construções no Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Isolados no Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Isolados no Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Isolados no Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Mestres da Sobrevivência: O Desafio</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Sobreviva, Se Puder</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Quem Vence: Homem ou Fera?</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Sobrevivente Geek</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Sobrevivência Ninja</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Quem Vence: Homem ou Fera?</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Hitler e sua Corrente do Mal</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Dupla do Barulho</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Quem Vence: Homem ou Fera?</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">As Piores Prisões do Mundo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">As Piores Prisões do Mundo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto Miami</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Linha Tênue</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Pronto-Socorro: Histórias de Emergência</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Meu Corpo, Meu Desafio</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Meu Corpo, Meu Desafio</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Pronto-Socorro: Histórias de Emergência</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Hitler e sua Corrente do Mal</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Carros Irados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">À Prova de Tudo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro - O Desafio de Parker</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro: Corredeiras do Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Sobreviva, Se Puder</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Caçadores de Pítons</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Supercobra</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Lendas Selvagens</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">A Maldição do Ouro Perdido</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Caçadores de Pítons</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Supercobra</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Lendas Selvagens</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Hitler e sua Corrente do Mal</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Trocando a Marcha com Aaron Kaufman</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Caçadores de Pítons</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Supercobra</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Lendas Selvagens</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">À Prova de Tudo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">À Prova de Tudo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">À Prova de Tudo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ilhados com Bear Grylls</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">À Prova de Tudo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">À Prova de Tudo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro - O Desafio de Parker</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro: Corredeiras do Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Em Busca de Relíquias</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Em Busca de Relíquias</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">À Prova de Tudo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro - O Desafio de Parker</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Febre do Ouro: Corredeiras do Alasca</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">À Prova de Tudo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Sobrevivência ao Limite</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Forças Especiais: O Desafio</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ligação Perigosa</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Tarzan Americano</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+  </programme>
 </tv>
