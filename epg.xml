@@ -1,661 +1,773 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="DISCOVERY CHANNEL HD">
-    <display-name lang="pt">DISCOVERY CHANNEL HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo - Especial</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Operação Fronteira - América do Sul</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Operação Fronteira - América do Sul</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto: Área Restrita</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto: Área Restrita</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto Miami</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto Miami</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto Miami</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto Miami</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Forças Especiais: O Desafio</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ligação Perigosa</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">O Fugitivo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">O Fugitivo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto Miami</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto Miami</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto: Área Restrita</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto: Área Restrita</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Rumo ao Desconhecido</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Rumo ao Desconhecido</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Rumo ao Desconhecido</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Planeta Desconhecido com Steve Backshall</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções no Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções no Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções Remotas</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções Remotas</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">A Grande Família do Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford: Contra Todos</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Menu Selvagem</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">O Fugitivo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">À Prova de Tudo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções Remotas</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">A Grande Família do Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford: Contra Todos</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Hitler e sua Corrente do Mal</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Movidos a Diesel</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Rumo ao Desconhecido</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ilha dos Crocodilos: Caçadores do Tesouro Perdido</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">A Maldição do Ouro Perdido</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">O Caçador de Múmias</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Vida Remota</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Vida Remota</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Vida Remota</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções Remotas</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções Remotas</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções no Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">A Grande Família do Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Isolados no Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">A Grande Família das Montanhas</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções Remotas</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções Remotas</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções no Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">A Grande Família do Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Destiladores</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Hitler e sua Corrente do Mal</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">O Mundo sobre rodas com Mike Brewer</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções Remotas</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções Remotas</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Construções no Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">A Grande Família do Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Isolados no Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Isolados no Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Isolados no Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Mestres da Sobrevivência: O Desafio</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Sobreviva, Se Puder</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford: Contra Todos</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford: Contra Todos</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Quem Vence: Homem ou Fera?</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Sobrevivente Geek</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Sobrevivência Ninja</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford: Contra Todos</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford: Contra Todos</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Quem Vence: Homem ou Fera?</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Destiladores</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Hitler e sua Corrente do Mal</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Dupla do Barulho</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford: Contra Todos</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford: Contra Todos</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Quem Vence: Homem ou Fera?</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">As Piores Prisões do Mundo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">As Piores Prisões do Mundo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto Miami</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto: Área Restrita</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto: Área Restrita</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto: Área Restrita</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto: Área Restrita</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto: Área Restrita</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Aeroporto: Área Restrita</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Quilos Mortais</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Linha Tênue</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Pronto-Socorro: Histórias de Emergência</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Meu Corpo, Meu Desafio</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Meu Corpo, Meu Desafio</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Pronto-Socorro: Histórias de Emergência</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Destiladores</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Hitler e sua Corrente do Mal</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Carros Irados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">À Prova de Tudo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro - O Desafio de Parker</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro: Corredeiras do Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">A Grande Família do Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">A Grande Família do Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">A Grande Família do Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Sobreviva, Se Puder</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Caçadores de Pítons</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Supercobra</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Lendas Selvagens</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Rumo ao Desconhecido</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">A Maldição do Ouro Perdido</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Caçadores de Pítons</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Supercobra</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Lendas Selvagens</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Destiladores</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Hitler e sua Corrente do Mal</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Trocando a Marcha com Aaron Kaufman</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Caçadores de Pítons</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Supercobra</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Lendas Selvagens</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">À Prova de Tudo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">À Prova de Tudo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">À Prova de Tudo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ilhados com Bear Grylls</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">À Prova de Tudo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">À Prova de Tudo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro - O Desafio de Parker</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro: Corredeiras do Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Destiladores</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Em Busca de Relíquias</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Em Busca de Relíquias</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">À Prova de Tudo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro - O Desafio de Parker</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Febre do Ouro: Corredeiras do Alasca</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Destiladores</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Desafio em Dose Dupla</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">À Prova de Tudo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Sobrevivência ao Limite</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Forças Especiais: O Desafio</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ligação Perigosa</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Tarzan Americano</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
-  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="DISCOVERY CHANNEL HD">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-  </programme>
+
+-<tv generator-info-url="http://www.webgrabplus.com" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.0.0 -- Jan van Straaten">
+
+
+-<channel id="ESPN">
+
+<display-name lang="pt">ESPN</display-name>
+
+<url>http://www.meuguia.tv</url>
+
+</channel>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Espn Knockout: Anthony Yarde vs. Dec Spellman</title>
+
+</programme>
+
+
++<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">2019 World Series Of Poker Main Event</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">NHL: Vegas Golden Knights x Dallas Stars - Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Huddersfield Town x Norwich City</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Linha de Passe: Mesa-redonda</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Tênis: US Open: Final Feminina</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Ciclismo: Tour de France - Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">E60: Alex Smith - Project 11</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">NFL: Green Bay Packers x Minnesota Vikings - Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">NFL: Tampa Bay Buccaneers x New Orleans Saints - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Momento ESPN League</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">MLB: Houston Astros x Los Angeles Dodgers - Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Momento ESPN League</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Arena eSports</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Arena eSports</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">E60: Imperfect: The Roy Halladay Story</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Liverpool x Leeds United</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Tottenham x Everton</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Linha de Passe: Mesa-redonda</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Mundo Premier League</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Tênis: US Open: Final Masculina</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Arena eSports</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">NBA Action</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">NFL: Cleveland Browns x Baltimore Ravens</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">E60: Alex Smith - Project 11</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Resenha de Casa: Família Ortiz</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">NHL: Dallas Stars x Vegas Golden Knights - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Mundo Premier League</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sheffield United x Wolverhampton Wanderers</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Linha de Passe: Mesa-redonda</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Premier League Legends: Peter Schmeichel</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Ciclismo: Tour de France - Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">NFL: Houston Texans x Kansas City Chiefs</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Cestou ESPN Bud</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Tênis: US Open - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">ESPN League</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Tênis: US Open</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Bola da Vez: Thiago Galhardo, Meia do Internacional</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Ciclismo: Tour de France - Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Arena eSports</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Everton x Preston North End</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">NHL: Dallas Stars x Vegas Golden Knights - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Tênis: US Open - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Tênis: US Open</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Mundo Premier League</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Ciclismo: Tour de France</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Linha de Passe: Mesa-redonda</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Resenha de Casa: Fernandinho</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">NBA: Toronto Raptors x Boston Celtics</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">NBA: LA Clippers x Denver Nuggets</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Tênis: US Open - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano com Scott Van Pelt</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano com Scott Van Pelt</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Resenha de Casa: Fernandinho</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Tênis: US Open</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Linha de Passe: Mesa-redonda</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Premier League Legends: Peter Schmeichel</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Ciclismo: Tour de France - Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">NFL: Houston Texans x Kansas City Chiefs</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Cestou ESPN Bud</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Tênis: US Open - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">ESPN League</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">2019 World Series Of Poker Main Event</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter Americano - Ao Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Tênis: US Open</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Sportscenter</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Momento ESPN: Além da Bola: Felipe</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Watford x Middlesbrough</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">F1: The Inside Line</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Mundo Premier League</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Cestou ESPN Bud</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Ciclismo: Tour de France - Vivo</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Mundo Premier League</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">ESPN League</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Te Conto no Caminho</title>
+
+</programme>
+
+
+-<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
+
+<title lang="pt">Espn Knockout: Anthony Yarde vs. Dec Spellman</title>
+
+</programme>
+
 </tv>
