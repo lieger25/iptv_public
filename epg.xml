@@ -1,773 +1,295 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
--<tv generator-info-url="http://www.webgrabplus.com" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.0.0 -- Jan van Straaten">
-
-
--<channel id="ESPN">
-
-<display-name lang="pt">ESPN</display-name>
-
-<url>http://www.meuguia.tv</url>
-
-</channel>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Espn Knockout: Anthony Yarde vs. Dec Spellman</title>
-
-</programme>
-
-
-+<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">2019 World Series Of Poker Main Event</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">NHL: Vegas Golden Knights x Dallas Stars - Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Huddersfield Town x Norwich City</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Linha de Passe: Mesa-redonda</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tênis: US Open: Final Feminina</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ciclismo: Tour de France - Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">E60: Alex Smith - Project 11</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">NFL: Green Bay Packers x Minnesota Vikings - Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">NFL: Tampa Bay Buccaneers x New Orleans Saints - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Momento ESPN League</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">MLB: Houston Astros x Los Angeles Dodgers - Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Momento ESPN League</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Arena eSports</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Arena eSports</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">E60: Imperfect: The Roy Halladay Story</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Liverpool x Leeds United</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tottenham x Everton</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Linha de Passe: Mesa-redonda</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Mundo Premier League</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tênis: US Open: Final Masculina</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Arena eSports</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">NBA Action</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">NFL: Cleveland Browns x Baltimore Ravens</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">E60: Alex Smith - Project 11</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Resenha de Casa: Família Ortiz</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">NHL: Dallas Stars x Vegas Golden Knights - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Mundo Premier League</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sheffield United x Wolverhampton Wanderers</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Linha de Passe: Mesa-redonda</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Premier League Legends: Peter Schmeichel</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ciclismo: Tour de France - Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">NFL: Houston Texans x Kansas City Chiefs</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Cestou ESPN Bud</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tênis: US Open - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">ESPN League</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tênis: US Open</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Bola da Vez: Thiago Galhardo, Meia do Internacional</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ciclismo: Tour de France - Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Arena eSports</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Everton x Preston North End</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">NHL: Dallas Stars x Vegas Golden Knights - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tênis: US Open - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tênis: US Open</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Mundo Premier League</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ciclismo: Tour de France</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Linha de Passe: Mesa-redonda</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Resenha de Casa: Fernandinho</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">NBA: Toronto Raptors x Boston Celtics</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">NBA: LA Clippers x Denver Nuggets</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tênis: US Open - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano com Scott Van Pelt</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano com Scott Van Pelt</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Resenha de Casa: Fernandinho</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tênis: US Open</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Linha de Passe: Mesa-redonda</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Premier League Legends: Peter Schmeichel</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ciclismo: Tour de France - Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">NFL: Houston Texans x Kansas City Chiefs</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Cestou ESPN Bud</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tênis: US Open - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">ESPN League</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">2019 World Series Of Poker Main Event</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter Americano - Ao Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Tênis: US Open</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Sportscenter</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Momento ESPN: Além da Bola: Felipe</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Watford x Middlesbrough</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">F1: The Inside Line</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Mundo Premier League</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Cestou ESPN Bud</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Ciclismo: Tour de France - Vivo</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Mundo Premier League</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">ESPN League</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Te Conto no Caminho</title>
-
-</programme>
-
-
--<programme channel="ESPN" stop="20200912000000 -0300" start="20200912000000 -0300">
-
-<title lang="pt">Espn Knockout: Anthony Yarde vs. Dec Spellman</title>
-
-</programme>
-
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Discovery.br">
+    <display-name lang="pt">Discovery.br</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200912190000 -0300" stop="20200912200000 -0300" channel="Discovery.br">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200912210000 -0300" stop="20200912220000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA Action</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter Abre o Jogo: NBA - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: Houston Rockets x Los Angeles Lakers - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Espn Knockout: Egidijus Kavaliauskas vs. Mikael Zewski - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Destaques do Tour de France 2020</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Tour de France 2020: 14: Clermont-ferrand A Lyon</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">E60: Alex Smith - Project 11</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Copa da Alemanha</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sparta Rotterdam x Ajax - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Espn Knockout: Bellator 245 - Phil Davis vs. Lyoto Machida</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NFL: Cleveland Browns x Baltimore Ravens - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NFL: Dallas Cowboys x Los Angeles Rams - Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Destaques do Tour de France 2020</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Tour de France 2020: 15: Lyon A Grand Colombier</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NFL: Green Bay Packers x Minnesota Vikings</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NFL: Dallas Cowboys x Los Angeles Rams</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Liverpool x Leeds United</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sheffield United x Wolverhampton Wanderers - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Mundo Premier League</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">ESPN Knockout</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Hard Knocks Rams/chargers - Episódio 1</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">ESPN League - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NFL: Pittsburgh Steelers x New York Giants - Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NFL: Tennessee Titans x Denver Broncos - Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Destaques do Tour de France 2020</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">ESPN League</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Pec Zwolle x Feyenoord</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Tênis: US Open</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NFL: Houston Texans x Kansas City Chiefs</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">ESPN League - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: Denver Nuggets x La Clippers - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: Boston Celtics x Toronto Raptors - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Destaques do Tour da França</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Tour de France</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">ESPN Filmes: 30 For 30 - When The Garden Was Eden</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Pelas Quadras do US Open</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: Boston Celtics x Toronto Raptors</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Fiorentina x Lucchese</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter Abre o Jogo: NBA - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: Toronto Raptors x Boston Celtics - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: LA Clippers x Denver Nuggets - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA Action</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Destaques do Tour de France</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Tour de France</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Campeonato Chinês</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Pelas Quadras do US Open</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: Toronto Raptors x Boston Celtics</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Milan x Monza</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: LA Clippers x Denver Nuggets</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NFL Filmes: Sights And Sounds Of The Season</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter Abre o Jogo: NBA - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NFL: Houston Texans x Kansas City Chiefs - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Destaques do Tour de France</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Premier League Legends: Peter Schmeichel</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Premier League Legends: Tony Adams</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Tour de France</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Tênis: US Open</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NFL: Houston Texans x Kansas City Chiefs</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">ESPN League - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: Denver Nuggets x La Clippers - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: Boston Celtics x Toronto Raptors - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Destaques do Tour de France 2020</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Ciclismo: Tour de France 2020: 13: Chauvigny A Sarran Corrèze</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Pelas Quadras do US Open</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Tênis: US Open</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">ESPN League</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: Denver Nuggets x La Clippers</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">NBA: Boston Celtics x Toronto Raptors</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Espn Knockout: Bellator 245 - Phil Davis vs. Lyoto Machida</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200912000000 -0300" stop="20200912000000 -0300" channel="Discovery.br">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
 </tv>
